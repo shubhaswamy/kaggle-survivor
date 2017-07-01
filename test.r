@@ -1,4 +1,4 @@
-setwd("C:\\Users\\swamy\\MyFolder\\kaggle")
+setwd("C:\\Users\\insertName\\MyFolder\\kaggle")
 
 #var trainData
 #read.csv => reads in csv file 
